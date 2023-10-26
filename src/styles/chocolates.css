@@ -1,0 +1,26 @@
+.chocolatess{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    justify-content: center;
+    gap: 1rem;
+}
+.imgchoco{
+    
+      margin-top: 3.5rem;
+        width: 130px;
+       margin-left: 3rem;
+       margin-right: 3rem;
+       
+    }
+.chocoimg{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.choco{
+    border: 1px solid rgb(132, 232, 132);
+    width: 230px;
+    height: auto;
+    border-radius: 8px;
+    
+}

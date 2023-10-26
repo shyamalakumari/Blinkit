@@ -1,0 +1,59 @@
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    gap: 1rem;
+    justify-content: center;
+    
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    color: green;
+    font-size: 20px;
+}
+.imgsurl{
+    height: 160px;
+    width: 170px;
+  
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dairy{
+    border: 1px solid rgb(132, 232, 132);
+    width: 230px;
+    height: auto;
+    border-radius: 8px;
+}
+.pricecontainer{
+    display:flex ;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.btn{
+    width: 70px;
+    height: 35px;
+   color: green;
+   border: 1px solid green;
+   font-weight: bold;
+   font-size: 15px;
+   /* margin-top: 0.6rem; */
+   display: flex;
+   align-items:center ;
+   justify-content: center;
+   border-radius: 5px;
+   background-color: rgb(247, 255, 249);
+}
+.p1{
+    color: rgb(103, 103, 103);
+    text-align: center;
+}

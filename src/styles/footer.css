@@ -1,0 +1,47 @@
+.footer{
+    display:flex;
+  justify-content: space-evenly;
+}
+
+.foot{
+  margin-left: 6rem;
+
+}
+.footpara{
+  color: gray;
+}
+
+
+.imgfooter{
+  width: 80px;
+  border: 1px solid rgb(218, 206, 206);
+}
+.payment,.net{
+  display: flex;
+  margin-left: 6rem;
+  gap: 3rem;
+}
+.net{
+  border: 1px solid rgb(218, 206, 206);
+  width: 110px;
+  height: 50px;
+  display:flex;
+  justify-content: center;
+  align-items:center ;
+}
+.cashon{
+  border: 1px solid rgb(218, 206, 206);
+  width: 90px;
+  height: 50px;
+  display:flex;
+  justify-content: center;
+  align-items:center ;
+}
+.blink{
+  border: 1px solid rgb(218, 206, 206);
+  width: 90px;
+  height: 50px;
+  display:flex;
+  justify-content: center;
+  align-items:center ;
+}

@@ -1,0 +1,45 @@
+.items{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 1rem;
+    justify-content: center;
+}
+.imagescontainer{
+    height: 160px;
+    width: 170px;  
+}
+.imggs{
+    display: flex;
+    justify-content: center;
+}
+.imgname{
+    display: flex;
+    justify-content: center;
+}
+.thumbimg{
+    border: 1px solid rgb(132, 232, 132);
+    width: 230px;
+    height: auto;
+    border-radius: 8px;
+}
+.parent2{
+    display: flex;
+    justify-content: space-between;
+}
+.btncontainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.button{
+    width: 70px;
+    height: 35px;
+   color: green;
+   border: 1px solid green;
+   font-weight: bold;
+   font-size: 15px;
+   margin-top: 0.6rem;
+   border-radius: 5px;
+   background-color: rgb(247, 255, 249);
+    
+}

@@ -1,0 +1,59 @@
+.flex{
+    margin-top: 2rem;
+}
+.one{
+    border: 1px solid rgb(211, 211, 211);
+    width: 430px;
+    height:230px;
+    line-height: 0.5rem;
+    border-radius: 10px;
+}
+.two{
+    
+        border: 1px solid rgb(211, 211, 211);
+        width: 430px;
+        height:230px;
+        border-radius: 10px;
+    
+}
+.three{
+    border: 1px solid rgb(211, 211, 211);
+    width: 430px;
+    height:230px;
+    border-radius: 10px;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imgg{
+    width: 110px;
+    height: 90px;
+  
+ 
+}
+.imgmain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.blinkpara{
+    color: gray;
+    display: flex;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+ 
+}
+.p{
+   border-bottom: 1px solid rgb(210, 204, 204);
+   width: 90%;
+   margin-left: 3rem;
+}

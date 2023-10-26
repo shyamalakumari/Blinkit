@@ -1,0 +1,33 @@
+.products{
+    display: grid;
+    grid-template-columns: auto  auto auto auto auto auto auto;
+    justify-content: center;
+   
+}
+
+
+.imgthumb{
+    margin-top: 3.5rem;
+    width: 70px;
+   margin-left: 4rem;
+   margin-right: 3rem;
+   padding: 0 ;
+    display: flex;
+    justify-content: center;
+   
+}
+.imgthumbmain{
+    display: flex;
+   justify-content: center;
+   /* border: 1px solid rgb(161, 153, 153);
+   background-color: rgb(191, 208, 215); */
+   width: 130px;
+   border-radius: 10px;
+   margin-left: 3rem;
+   
+}
+.name{
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
